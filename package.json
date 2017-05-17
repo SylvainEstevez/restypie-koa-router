@@ -1,0 +1,24 @@
+{
+  "name": "restypie-koa-router",
+  "version": "5.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SylvainEstevez/restypie-koa-router.git"
+  },
+  "author": "Sylvain Estevez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SylvainEstevez/restypie-koa-router/issues"
+  },
+  "homepage": "https://github.com/SylvainEstevez/restypie-koa-router#readme",
+  "devDependencies": {
+    "koa": ">=1.x <2.x",
+    "koa-router": ">=5.x <6.x",
+    "restypie": "1.x"
+  }
+}
